@@ -9,7 +9,10 @@ There are more. There are always more. I'll add to the list as I think of them.
 
 - A Beautiful Mind
 - Aliens
+- Alita: Battle Angel
 - Almost Famous
+- Anna
+- Atomic Blonde
 - Avengers
 - Avengers: Infinity War
 - Avengers: Endgame
@@ -18,6 +21,7 @@ There are more. There are always more. I'll add to the list as I think of them.
 - The Bourne Idendity
 - Captain America: Winter Soldier
 - Captain America: Civil War
+- Captain Marvel
 - Cast Away
 - Contact
 - Dances with Wolves
@@ -27,8 +31,10 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Field of Dreams
 - Fight Club
 - Gladiator
+- Ghost in the Shell
 - Good Will Hunting
 - Hackers
+- Hanna
 - The Hunger Games
 - The Hunt for Red October
 - Indiana Jones and the Last Crusade
@@ -37,17 +43,24 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Iron Man 2
 - James Bond (any)
 - Jursassic Park
+- Kill Bill
 - King Kong (1933, 1976 or 2005)
+- Lara Croft: Tomb Raider (2001)
 - Leon, The Professional
+- The Long Kiss Goodnight
+- Mad Max: Fury Road
 - Man of Steel
 - The Matrix (1999)
 - Mission Impossible
+- The Old Guard
 - Patriot Games
 - Pirates of the Caribbean: The Curse of the Black Pearl
 - Pirates of the Caribbean: Dead Man's Chest
+- Point of No Return
 - Rocky
 - Rougue One
 - Rudy
+- Salt
 - Saving Private Ryan
 - Searching for Bobby Fisher
 - The Shawshank Redemption
@@ -66,5 +79,6 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Transformers
 - Twister
 - The Usual Suspects
+- Wanted
 - WarGames
 - X-Men
