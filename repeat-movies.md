@@ -28,6 +28,7 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Fight Club
 - Gladiator
 - Good Will Hunting
+- Hackers
 - The Hunger Games
 - The Hunt for Red October
 - Indiana Jones and the Last Crusade
@@ -50,6 +51,7 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Saving Private Ryan
 - Searching for Bobby Fisher
 - The Shawshank Redemption
+- Sneakers
 - Stand by Me
 - Star Trek II: The Wrath of Khan
 - Star Trek VI: The Undiscovered Country
@@ -64,4 +66,5 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Transformers
 - Twister
 - The Usual Suspects
+- WarGames
 - X-Men
