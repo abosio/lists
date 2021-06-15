@@ -11,6 +11,7 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Aliens
 - Alita: Battle Angel
 - Almost Famous
+- Amistad
 - Anna
 - Atomic Blonde
 - Avengers
@@ -28,11 +29,13 @@ There are more. There are always more. I'll add to the list as I think of them.
 - The Dark Knight
 - Dead Poets Society
 - Die Hard
+- Equilibrium
 - Field of Dreams
 - Fight Club
 - Gladiator
 - Ghost in the Shell
 - Good Will Hunting
+- Great Expectations
 - Hackers
 - Hanna
 - The Hunger Games
@@ -48,15 +51,19 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Lara Croft: Tomb Raider (2001)
 - Leon, The Professional
 - The Long Kiss Goodnight
+- Lost in Translation
 - Mad Max: Fury Road
 - Man of Steel
 - The Matrix (1999)
 - Mission Impossible
+- October Sky
 - The Old Guard
 - Patriot Games
 - Pirates of the Caribbean: The Curse of the Black Pearl
 - Pirates of the Caribbean: Dead Man's Chest
 - Point of No Return
+- Red Dawn (1984)
+- Robin Hood (1991)
 - Rocky
 - Rougue One
 - Rudy
@@ -71,6 +78,7 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Star Wars: Episode IV
 - Star Wars: Episode V
 - Star Wars: Episode VI
+- The Station Agent
 - Superman (1978)
 - Thor: Ragnarok
 - Titanic
