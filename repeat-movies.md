@@ -15,6 +15,7 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Anna
 - Atomic Blonde
 - Avengers
+- Avengers: Age of Ultron
 - Avengers: Infinity War
 - Avengers: Endgame
 - Back to the Future
@@ -32,8 +33,8 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Equilibrium
 - Field of Dreams
 - Fight Club
-- Gladiator
-- Ghost in the Shell
+- Gladiator (2000)
+- Ghost in the Shell (2017)
 - Good Will Hunting
 - Great Expectations
 - Hackers
@@ -54,8 +55,8 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Lost in Translation
 - Mad Max: Fury Road
 - Man of Steel
-- The Matrix (1999)
-- Mission Impossible
+- The Matrix
+- Mission Impossible (1996-2025)
 - October Sky
 - The Old Guard
 - Patriot Games
@@ -87,6 +88,6 @@ There are more. There are always more. I'll add to the list as I think of them.
 - Transformers
 - Twister
 - The Usual Suspects
-- Wanted
+- Wanted (2008)
 - WarGames
 - X-Men
